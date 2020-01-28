@@ -4,7 +4,7 @@ A set of dot matrix fonts in the style of TFL's Underground arrivals board. Thes
 
 ## London Underground Regular
 
-This font includes a full alpha character set (upper and lower cases), numbers, and symbols `- ' & *`.
+This font includes a full alpha character set (upper and lower cases), numbers, and symbols `- ' & * +`.
 
 ![London Underground Regular](resources/examples/London-Underground-Regular.png)![London Underground Regular Station Names](resources/examples/London-Underground-Regular-Station-Names.png)
 
