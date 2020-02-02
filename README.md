@@ -16,7 +16,7 @@ This font only includes a full number set and symbols `:`.
 
 ## London Underground Heavy
 
-This font includes a full alpha character set (upper and lower cases), numbers, and symbols `' , *`.
+This font includes a full alpha character set (upper and lower cases), numbers, and symbols `- ' , * ()`.
 
 ![London-Underground-Heavy-Station-Names](resources/examples/London-Underground-Heavy-Station-Names.png)
 
