@@ -14,6 +14,12 @@ This font only includes a full number set and symbols `:`.
 
 ![London-Underground-Bold-Numbers](resources/examples/London-Underground-Bold-Numbers.png)
 
+## London Underground Heavy
+
+This font includes a full alpha character set (upper and lower cases), numbers, and symbols `' , *`.
+
+![London-Underground-Heavy-Station-Names](resources/examples/London-Underground-Heavy-Station-Names.png)
+
 ## Reference
 
 The following photograph is an example of the particular dot matrix style which was referenced in the typeface creation.
