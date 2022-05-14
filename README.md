@@ -20,12 +20,12 @@ This typeface sets out to recreate the dot matrix font found displayed on London
 ![London-Underground-Medium](resources/examples/London-Underground-Medium-Next-Station.png)
 
 ### Character Set Details
-This font includes a partial alpha character set (upper and lower cases) and symbols `: .`.
+This font includes a full alpha character set (upper and lower cases) and symbols `! ' , - . : ;`.
 
 ![London-Underground-Medium](resources/examples/London-Underground-Medium.png)
 
-**NOTE: Missing Characters!** This font does not currently include the following characters due to a lack of reference materials. Please contact me on [Twitter](https://twitter.com/petykowski_) if you have photographs of these characters.
-* `A C E F I J K M O Qq S T U V X Yy Z`
+**NOTE: Unverified Characters!** This font currently includes 'best effort' characters due to a lack of reference materials for certain letters. Please contact me on [Twitter](https://twitter.com/petykowski_) if you have photographs of these characters.
+* `F J K Qq U V X Y Z`
 
 ## London Underground Bold
 
@@ -56,6 +56,7 @@ The following photographs are an example of the particular dot matrix style whic
 ![DLR-Arrival-Board](resources/examples/DLR-Arrival-Board.jpeg)
 
 London Underground Medium is sourced from video recordings found on YouTube. Attributes as follows:
+* [Tony - Transit & Games](https://www.youtube.com/channel/UCgeEbnxA5A2M30JRgfLiYMw)
 * [X2K9](https://www.youtube.com/watch?v=MpcsaVmps-Q)
 * [Random Transport](https://www.youtube.com/watch?v=1G5eaNuZYDc)
 
@@ -81,11 +82,8 @@ From Adobe Illustrator template file:
 Open .sdf file in FontForge
 1. Select character to update
 2. File > Import
-3. Element > Transformations > Transform
-   - Scale Uniformly: 83.33333333%
-4. Set width to width of character + 100
+3. Set width to width of character + 100
    - If svg width is 600 then set element width to 700
-5. Align leading edge and baseline to element frame
 
 #### Generate Font
 1. File > Generate Fonts
