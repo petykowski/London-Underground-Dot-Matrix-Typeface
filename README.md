@@ -20,12 +20,12 @@ This typeface sets out to recreate the dot matrix font found displayed on London
 ![London-Underground-Medium](resources/examples/London-Underground-Medium-Next-Station.png)
 
 ### Character Set Details
-This font includes a full alpha character set (upper and lower cases) and symbols `! ' , - . : ;`.
+This font includes a full alpha character set (upper and lower cases) and symbols `! ' , - . / : ; & \`.
 
 ![London-Underground-Medium](resources/examples/London-Underground-Medium.png)
 
 **NOTE: Unverified Characters!** This font currently includes 'best effort' characters due to a lack of reference materials for certain letters. Please contact me on [Twitter](https://twitter.com/petykowski_) if you have photographs of these characters.
-* `F J K Qq U V X Y Z`
+* `F K Qq U V X Y Z`
 
 ## London Underground Bold
 
