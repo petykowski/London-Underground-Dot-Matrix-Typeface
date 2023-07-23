@@ -24,8 +24,8 @@ This font includes a full alpha character set (upper and lower cases) and symbol
 
 ![London-Underground-Medium](resources/examples/London-Underground-Medium.png)
 
-**NOTE: Unverified Characters!** This font currently includes 'best effort' characters due to a lack of reference materials for certain letters. Please contact me on [Twitter](https://twitter.com/petykowski_) if you have photographs of these characters.
-* `F K Qq U V X Y Z`
+**NOTE: Unverified Characters!** This font currently includes 'best effort' characters due to a lack of reference materials for certain letters. Please contact me on [Twitter](https://twitter.com/petykowski_), or raise an issue on GitHub if you have photographs of these characters.
+* `F K q U V X Y Z`
 
 ## London Underground Bold
 
@@ -59,6 +59,7 @@ London Underground Medium is sourced from video recordings found on YouTube. Att
 * [Tony - Transit & Games](https://www.youtube.com/channel/UCgeEbnxA5A2M30JRgfLiYMw)
 * [X2K9](https://www.youtube.com/watch?v=MpcsaVmps-Q)
 * [Random Transport](https://www.youtube.com/watch?v=1G5eaNuZYDc)
+* [Mongchong 123](https://www.youtube.com/watch?v=VdS9RxWD6is) (_Thanks [@robhagemans](https://github.com/robhagemans)_)
 
 ![Random Transport](resources/examples/London-Underground-Jubilee-Line.png)
 
