@@ -25,7 +25,7 @@ This font includes a full alpha character set (upper and lower cases) and symbol
 ![London-Underground-Medium](resources/examples/London-Underground-Medium.png)
 
 **NOTE: Unverified Characters!** This font currently includes 'best effort' characters due to a lack of reference materials for certain letters. Please contact me on [Twitter](https://twitter.com/petykowski_), or raise an issue on GitHub if you have photographs of these characters.
-* `F K q U V X Y Z`
+* `F j q U V X Y Z`
 
 ## London Underground Bold
 
