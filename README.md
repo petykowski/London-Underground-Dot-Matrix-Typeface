@@ -9,7 +9,7 @@ This typeface sets out to recreate the font used on dot matrix arrival boards fo
 ![London Underground Regular Station Names](resources/examples/London-Underground-Regular-Station-Names.png)
 
 ### Character Set Details
-This font includes a full alpha character set (upper and lower cases), numbers, and symbols `- ' & * +`.
+This font includes a full alpha character set (upper and lower cases), numbers, and symbols `- ' & * + : , .`.
 
 ![London Underground Regular](resources/examples/London-Underground-Regular.png)
 
